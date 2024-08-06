@@ -4,3 +4,11 @@
     display: flex;
     padding: 24px 0;
 }
+
+.section1{
+    background-color: blueviolet;
+}
+
+.section2{
+    background-color: black;
+}
