@@ -1,28 +1,26 @@
 .cabecalho{
-    background-color: aliceblue;
+    background-image: linear-gradient(black,blueviolet);
     color: azure;
     display: flex;
     padding: 24px 0;
 }
 
 .section1{
-    background-color: blueviolet;
+    background-image: linear-gradient(blueviolet,pink);
+    color: azure;
+    display: flex;
     padding: 100px;
 }
 
 .section2{
-    background-color: blueviolet;
+    background-image: linear-gradient(pink,black);
+    color: azure;
+    display: flex;
     padding: 100px;
-}
-.cabecalho{
-    width: 20%;
-}
-.rodar{
-    background-color: black;
-    padding: 24px;
 }
 
 .rodar{
     background-color: black;
-    color: aliceblue;
+    display: flex;
+    padding: 24px;
 }
